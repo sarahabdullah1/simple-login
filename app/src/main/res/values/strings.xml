@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">simple login</string>
+    <string name="welcome">simple login app</string>
+    <string name="About">About our Blog</string>
+    <string name="place">A place that gathers all readers to exchange opinions and present</string>
+    <string name="their">their reading experiences to benefit beginners</string>
+    <string name="welcomehome">Welcome </string>
+    <string name="texthome">Here you will find the best publishing houses.</string>
+    <string name="text2home">where it look us a long time to search for them
+    so that we can find the best publishing houses that take car of your writings</string>
+</resources>
